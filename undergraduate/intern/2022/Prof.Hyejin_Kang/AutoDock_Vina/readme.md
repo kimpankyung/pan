@@ -1,4 +1,4 @@
-## AutoDock Vina tutorial
+# AutoDock Vina tutorial
 # Citation
 Forli, S., Huey, R., Pique, M. et al. Computational protein–ligand docking and virtual drug screening with the AutoDock suite. Nat Protoc 11, 905–919 (2016). https://doi.org/10.1038/nprot.2016.051
 

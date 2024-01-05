@@ -1,8 +1,8 @@
-##AutoDock Vina tutorial
-##Citation
+# AutoDock Vina tutorial
+# Citation
 Forli, S., Huey, R., Pique, M. et al. Computational protein–ligand docking and virtual drug screening with the AutoDock suite. Nat Protoc 11, 905–919 (2016). https://doi.org/10.1038/nprot.2016.051
 
-##Starting Data
+# Starting Data
 •     Coordinate file for receptor (in a variety of formats, including pdb, mol2, cif & sdf)
 
 •     Coordinate file for ligand (in a variety of formats, including pdb, mol2, cif & sdf)
@@ -16,7 +16,7 @@ Forli, S., Huey, R., Pique, M. et al. Computational protein–ligand docking and
       PDBQT format), NCIdivII_subset (a folder that includes 499 compounds from the 
       ZINC library, formatted as PDBQT files)
 
-##Hardware and Software
+# Hardware and Software
 •     Computer: Linux, Macintosh, or Windows PC; Internet access
 
 •     For virtual screening with Raccoon, a Linux cluster/HPC with either a PBS or SGE 
